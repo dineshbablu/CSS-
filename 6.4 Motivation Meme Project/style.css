@@ -1,0 +1,28 @@
+html {
+    background-color: black;
+}
+
+.image {
+    border: 5px solid white;
+    align-items: center;
+    width: 100%;
+}
+
+.poster {
+    margin-left: 25%;
+    width: 50%;
+    margin-top: 100px;
+    font-family: "libre baskervile", serif;
+}
+
+h1 {
+    text-transform: capitalize;
+    font-size: 3rem;
+    text-align: center;
+    color: white;
+}
+
+p {
+    text-align: center;
+    color: white;
+}
